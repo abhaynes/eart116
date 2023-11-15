@@ -1,0 +1,5 @@
+install.packages('dataRetrieval')
+install.packages("tidyverse")
+install.packages("lubridate")
+install.packages("patchwork")
+install.packages("ggplot2")
